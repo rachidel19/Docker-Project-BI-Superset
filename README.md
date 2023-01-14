@@ -1,7 +1,7 @@
 # BI PROJECT - MYSQL - PHPMYADMIN - SUPERSET - Docker - Contenerization
 
 # contributors of the projet
-ABDELLAOUI Rachid - LHALOUI Aoulia - KANTAPAREDDY Pascal - BRAKNI Yazid
+ABDELLAOUI Rachid - LHALOUI Aoulia - BRAKNI Yazid - KANTAPAREDDY Pascal
 
 # INTRODUCTION
  
